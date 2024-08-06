@@ -1,5 +1,8 @@
 /* Put any custom CSS styles here.  */
 /* Be sure to delete the <style> tag in index.html if you want to use this stylesheet. */
+html {
+  background: linear-gradient(-27deg, #d2d6db, #f9fafb);
+}
 body {
   margin: 0;
   font-family: "Noto Sans", system-ui, -apple-system, BlinkMacSystemFont,
